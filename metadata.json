@@ -1,10 +1,10 @@
 {
   "operatingsystem_support": [
-    { "operatingsystem": "RedHat", },
-    { "operatingsystem": "CentOS", },
-    { "operatingsystem": "Debian", },
-    { "operatingsystem": "Ubuntu", },
-    { "operatingsystem": "Solaris", },
+    { "operatingsystem": "RedHat" },
+    { "operatingsystem": "CentOS" },
+    { "operatingsystem": "Debian" },
+    { "operatingsystem": "Ubuntu" },
+    { "operatingsystem": "Solaris" }
   ],
   "source": "UNKNOWN",
   "dependencies": [ ],
