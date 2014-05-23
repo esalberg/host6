@@ -1,0 +1,18 @@
+{
+  "operatingsystem_support": [
+    { "operatingsystem": "RedHat", },
+    { "operatingsystem": "CentOS", },
+    { "operatingsystem": "Debian", },
+    { "operatingsystem": "Ubuntu", },
+    { "operatingsystem": "Solaris", },
+  ],
+  "source": "UNKNOWN",
+  "dependencies": [ ],
+  "license": "Apache 2.0",
+  "version": "0.0.1",
+  "name": "uol-host6",
+  "project_page": "UNKNOWN",
+  "description": "Manage IPv4 and IPv6 entries in /etc/hosts\nlike the resource host from Puppetlabs",
+  "author": "IT, University of Leeds",
+  "summary": "Manage IPv4 and IPv6 entries in /etc/hosts"
+}
